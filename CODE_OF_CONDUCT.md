@@ -6,3 +6,4 @@ We pledge to foster an inclusive and harassment-free environment.
 - Constructive feedback is encouraged.
 
 Violations can be reported to [email@example.com].
+ changes
