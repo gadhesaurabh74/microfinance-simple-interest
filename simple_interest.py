@@ -7,6 +7,8 @@ def calculate_simple_interest(principal, rate, time):
     :param time: Time period in years (float)
     :return: Simple interest (float)
     """
+
+    # here are some changes done
     return (principal * rate * time) / 100
 
 if __name__ == "__main__":

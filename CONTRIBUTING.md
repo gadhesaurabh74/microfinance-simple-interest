@@ -1,4 +1,4 @@
-# Contributing Guidelines
+# Contributing Guidelines:
 
 We welcome contributions! To contribute:
 
