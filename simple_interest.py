@@ -7,6 +7,13 @@ def calculate_simple_interest(principal, rate, time):
     :param time: Time period in years (float)
     :return: Simple interest (float)
     """
+
+    # Calculate simple interest using formula: SI = (P * R * T) / 100
+    # SI = (principal * rate * time) / 100
+    # SI = {principal} * {rate} * {time} / 100
+    # SI = {principal} * {rate * time} / 100
+    # SI = {principal} * {rate / 100} * {time}
+    # SI = {principal * rate * time} / 100
     return (principal * rate * time) / 100
 
 if __name__ == "__main__":
