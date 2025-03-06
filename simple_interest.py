@@ -8,7 +8,8 @@ def calculate_simple_interest(principal, rate, time):
     :return: Simple interest (float)
     """
 
-    # here are some changes done
+    # here are some changes done 
+    # no 
     return (principal * rate * time) / 100
 
 if __name__ == "__main__":
