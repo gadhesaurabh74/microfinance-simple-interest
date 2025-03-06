@@ -6,6 +6,10 @@ def calculate_simple_interest(principal, rate, time):
     :param rate: Annual interest rate in percentage (float)
     :param time: Time period in years (float)
     :return: Simple interest (float)
+
+    Example:
+    >>> calculate_simple_interest(1000, 5, 2)
+    100.0
     """
     return (principal * rate * time) / 100
 
